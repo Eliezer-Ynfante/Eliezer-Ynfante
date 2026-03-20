@@ -9,7 +9,7 @@ Universidad Tecnológica del Perú · Piura
 
 ---
 
-### lenguajes
+### Lenguajes
 
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white)
@@ -19,7 +19,7 @@ Universidad Tecnológica del Perú · Piura
 
 ---
 
-### herramientas
+### Herramientas
 
 ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white)
@@ -29,7 +29,7 @@ Universidad Tecnológica del Perú · Piura
 
 ---
 
-### áreas de interés
+### Áreas de interés
 
 `ciberseguridad` `desarrollo de software` `análisis de datos` `inteligencia artificial` `educación digital` `sostenibilidad TI`
 
@@ -37,6 +37,6 @@ Universidad Tecnológica del Perú · Piura
 
 <div align="center">
 
-*siempre aprendiendo, siempre construyendo.*
+*Siempre Aprendiendo, Siempre Construyendo.*
 
 </div>
