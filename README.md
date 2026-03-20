@@ -2,7 +2,7 @@
 
 # Adriel Ynfante Torres
 
-**Estudiante de Ingeniería de Sistemas e Informática**
+**Estudiante de Ingeniería de Sistemas e Informática** -
 Universidad Tecnológica del Perú · Piura
 
 </div>
