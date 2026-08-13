@@ -45,7 +45,7 @@ Universidad Tecnológica del Perú · Piura
 
 ### Áreas de interés
 
-`ciberseguridad` `desarrollo de software` `análisis de datos` `inteligencia artificial` `educación digital` `sostenibilidad TI`
+`Ciberseguridad` `Desarrollo de Software` `Análisis de Datos` `Inteligencia Artificial` `Educación Digital` `Sostenibilidad TI`
 
 ---
 
